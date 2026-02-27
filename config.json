@@ -1,0 +1,12 @@
+{
+    "url": "https://lmarena.ai",
+    "headless": true,
+    "timeout": 120,
+    "save_logs": true,
+    "log_dir": "logs",
+    "screenshot_dir": "screenshots",
+    "default_mode": "chat",
+    "default_model": null,
+    "max_retries": 3,
+    "theme": "dark"
+}
